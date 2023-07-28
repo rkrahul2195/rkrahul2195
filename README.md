@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm RUHUL KUDDUS</h1>
+<h1 align="center">Hi 👋, I'm MD. RUHUL KUDDUS</h1>
 <h3 align="center">A passionate Machine Learning</h3>
 
 - 🌱 I’m currently learning **Machine Learning**
